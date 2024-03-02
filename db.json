@@ -1,4 +1,4 @@
-[
+{
   {
         Id: 1,
         Subject: 'Meeting - 1',
@@ -13,4 +13,4 @@
         EndTime: new Date(2024, 2, 12, 12, 30),
         IsAllDay: false
   }
-]
+}
